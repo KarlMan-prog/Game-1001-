@@ -1,0 +1,14 @@
+//1-Data Types in Order from smallest to largest
+//1.1- char (Storage Size): 1 byte (Value Range): -128 to 127
+//1.2- int (Storage Size): 2 byte (Value Range): 	-32,768 to 32,767
+//1.3- short int (Storage Size): 2 byte (Value Range): −32,768 to 32,767
+//1.4- long int (Storage Size): 4 byte (Value Range): -2,147,483,648 to 2,147,483,647
+//1.5- float (Storage Size): 4 byte (Value Range)
+
+
+
+
+bool
+double
+string
+long long int
